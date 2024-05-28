@@ -8,6 +8,7 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-13 means 13th of Decembe
 
 ## [Unreleased]
 
+## [[3.20]](https://github.com/alastairhm/shellcheck/releases/tag/3.20) - 2024-05-28
 ## [[3.17]](https://github.com/alastairhm/shellcheck/releases/tag/3.17) - 2023-03-24
 
 ### Added
